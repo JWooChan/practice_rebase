@@ -1,0 +1,5 @@
+"""Tracker configuration"""
+
+DEFAULT_TRACK_THRESH = 0.5
+DEFAULT_TRACK_BUFFER = 30
+DEFAULT_MATCH_THRESH = 0.8
