@@ -10,7 +10,7 @@ class ByteTrack:
         self.tracked_objects = []
 
     def update(self, detections):
-        """Update tracks with new detections"""
+        """Update ! tracks with new detections!"""
         # TODO: implement later
         pass
 
